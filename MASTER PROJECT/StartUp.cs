@@ -1,13 +1,6 @@
 ﻿using System;
 
-<<<<<<< HEAD
-/// <summary>
-/// SoftUni C# 
-/// OOP Advanced - 
-/// Interfaces Exercise
-/// </summary>
-=======
->>>>>>> b3f869dd71d09a07a22d3b99f37f5255f65df393
+
 public class StartUp
 {
     /// <summary>
