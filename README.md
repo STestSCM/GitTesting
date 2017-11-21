@@ -1,2 +1,2 @@
 # GitTesting
-Just testing git 
+Just testing GitHub
