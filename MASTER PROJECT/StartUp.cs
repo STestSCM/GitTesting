@@ -1,7 +1,9 @@
 ﻿using System;
 
 /// <summary>
-/// SoftUni C# OOP Advanced - Interfaces Exercise
+/// SoftUni C# 
+/// OOP Advanced - 
+/// Interfaces Exercise
 /// </summary>
 public class StartUp
 {
@@ -23,11 +25,13 @@ public class StartUp
 		
         var properties = identifiableInterface.GetProperties();
 		
+		//Print testing result
         Console.WriteLine(properties.Length);
         Console.WriteLine(properties[0].PropertyType.Name);
 		
         properties = birthableInterface.GetProperties();
 		
+		// print testing result
         Console.WriteLine(properties.Length);
         Console.WriteLine(properties[0].PropertyType.Name);
 		
