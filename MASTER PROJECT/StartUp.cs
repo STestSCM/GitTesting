@@ -1,15 +1,8 @@
 ﻿using System;
 
-<<<<<<< HEAD
-/// <summary>
-/// SoftUni C# 
-/// OOP Advanced - 
-/// Interfaces Exercise
 /// 2017
 /// </summary>
-=======
->>>>>>> b3f869dd71d09a07a22d3b99f37f5255f65df393
-public class StartUp
+=======public class StartUp
 {
     /// <summary>
     /// Solution of 1-st and 2-nd problems
