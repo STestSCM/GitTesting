@@ -17,6 +17,7 @@ public class StartUp
     /// </summary>
     public static void Main(string[] args)
     {
+		// Code for Judje testing
         var identifiableInterface = typeof(Citizen).GetInterface("IIdentifiable");
         var birthableInterface = typeof(Citizen).GetInterface("IBirthable");
 		
@@ -30,6 +31,7 @@ public class StartUp
         Console.WriteLine(properties.Length);
         Console.WriteLine(properties[0].PropertyType.Name);
 		
+		// Code for the problem
         var name = Console.ReadLine();
         var age = int.Parse(Console.ReadLine());
         var id = Console.ReadLine();
