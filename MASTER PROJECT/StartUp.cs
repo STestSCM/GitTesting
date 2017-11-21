@@ -1,8 +1,5 @@
 ﻿using System;
 
-/// <summary>
-/// SoftUni C# OOP Advanced - Interfaces Exercise
-/// </summary>
 public class StartUp
 {
     /// <summary>
