@@ -8,3 +8,4 @@ Collaboratoe = SV
 
 ====================
 Owner is working now!!!
+AND OTHERS ARE JURKING
